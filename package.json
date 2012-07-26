@@ -1,0 +1,14 @@
+{
+  "name": "compiln-coffeescript",
+  "description": "Compiln plugin to render CoffeeScript.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ian Lollar"
+  },
+  "keywords": ["build", "assets", "compiln", "middleware", "coffeescript"],
+  "engines" : ["node"],
+  "main" : "./lib/compiln-coffeescript",
+  "dependencies": {
+    "coffee-script": "1.3.3"
+  }
+}
