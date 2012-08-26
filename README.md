@@ -24,7 +24,7 @@ compiln.use(compiln_coffeescript);
   "use": [  
     {  
       "plugin": "compiln-coffeescript",  
-      "source": <source>  
+      "source": <source>,  
       "destination": <destination>  
     }
   ]
