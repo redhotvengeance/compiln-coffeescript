@@ -1,6 +1,6 @@
 # compiln-coffeescript
 
-CoffeeScript plugin for [compiln](https://github.com/redhotvengeance/compiln)
+[CoffeeScript](https://github.com/jashkenas/coffee-script) plugin for [compiln](https://github.com/redhotvengeance/compiln).
 
 ## How to install
 
