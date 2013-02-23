@@ -7,6 +7,10 @@
   },
   "keywords": ["build", "assets", "compiln", "middleware", "coffeescript"],
   "engines" : ["node"],
+  "repository":   {
+    "type": "git",
+    "url": "git://github.com/redhotvengeance/compiln-coffeescript.git"
+  },
   "main" : "./lib/compiln-coffeescript",
   "dependencies": {
     "coffee-script": "1.3.3"
